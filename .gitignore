@@ -11,3 +11,52 @@ out
 .env.sentry-build-plugin
 .vercel
 stats.html
+node_modules
+dist
+out
+.DS_Store
+*.log*
+.env
+.eslintcache
+.env.*
+
+# Sentry Config File
+.env.sentry-build-plugin
+.vercel
+stats.htmlnode_modules
+dist
+out
+.DS_Store
+*.log*
+.env
+.eslintcache
+.env.*
+
+# Sentry Config File
+.env.sentry-build-plugin
+.vercel
+stats.htmlnode_modules
+dist
+out
+.DS_Store
+*.log*
+.env
+.eslintcache
+.env.*
+
+# Sentry Config File
+.env.sentry-build-plugin
+.vercel
+stats.htmlnode_modules
+dist
+out
+.DS_Store
+*.log*
+.env
+.eslintcache
+.env.*
+
+# Sentry Config File
+.env.sentry-build-plugin
+.vercel
+stats.html
